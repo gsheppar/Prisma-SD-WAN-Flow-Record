@@ -20,10 +20,10 @@ MIT
  - ./flows.py -S Test-LAB
  
  - Gets flows for past day on specific site and circuit 
- - ./flows.py -S Abingdon-VA-125-LAB -W "Circuit Name"
+ - ./flows.py -S Test-LAB -W "Circuit Name"
  
  - Gets flows for past 7 days on specific site
- - ./flows.py -S Abingdon-VA-125-LAB -T 7
+ - ./flows.py -S Test-LAB -T 7
  
 ### Caveats and known issues:
  - This is a PREVIEW release, hiccups to be expected. Please file issues on Github for any problems.
