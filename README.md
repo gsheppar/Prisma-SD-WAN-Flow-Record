@@ -1,5 +1,5 @@
 # Prisma SD-WAN Flow Records (Preview)
-The purpose is to grab the flow records for a site and optional for a circuit 
+The purpose is to grab the flow records for a site and optional for a circuit over a period of days
 
 #### License
 MIT
